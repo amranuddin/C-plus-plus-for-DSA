@@ -1,2 +1,4 @@
 This file cover basic of C++ where i attached codes.
 Clsss object and dynamic memory allocation add ....
+
+
