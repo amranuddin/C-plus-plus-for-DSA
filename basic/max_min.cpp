@@ -2,6 +2,7 @@
 #include <algorithm> // eita akta header file onk mathematical code kora zay
 using namespace std;
 int main()
+
 {
     int a, b, c, d;
     cin >> a >> b >> c >> d;
