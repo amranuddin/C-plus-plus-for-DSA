@@ -1,6 +1,7 @@
 //std:: use kora lagbe na hole output dibe na.
 #include <iostream>
 int main()
+
 {     
     
     std::cout << "This is my first c++ programme \n";
