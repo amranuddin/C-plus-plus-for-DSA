@@ -9,6 +9,7 @@ int main()
     std::cout << "Enter two number: \n";
     int a, b;
     char c;
+
     std::cout << "Enter your favorite character:";
 
     std::cin >> a >> b >> c;
