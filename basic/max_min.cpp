@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm> // eita akta header file onk mathematical code kora zay
+
 using namespace std;
 int main()
 
@@ -19,3 +20,4 @@ int main()
     cout << "The maximum number is: " << o << endl<< "THe minimum number is:"<<p;
 
 }
+
